@@ -1,0 +1,2 @@
+# Numerical-Integration-with-the-Midpoint-Rule-Integrasi-Numerik-dengan-Metode-Titik-Tengah-
+This project demonstrates the implementation of the Midpoint Rule, a numerical integration method used to approximate the value of a definite integral. The method divides the integration interval into several equal subintervals and evaluates the function at the midpoint of each subinterval to estimate the area under the curve.
